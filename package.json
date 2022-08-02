@@ -1,0 +1,16 @@
+{
+  "name": "todo-sete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodemon todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rio Ribeiro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
